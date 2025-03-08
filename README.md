@@ -31,7 +31,7 @@
 ### VPS专用一键脚本如下：快捷方式：```sb```
 ### (注意：serv00不可用，请继续往下翻)
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/yonggekkk/sing-box-yg/main/sb.sh)
+bash <(curl -Ls https://raw.github.com/canyue191/sing-box-yg/main/sb.sh)
 ```
 或者
 ```
